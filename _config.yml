@@ -1,84 +1,57 @@
-locale                   : "en-US"
-site_theme               : "default"
-title                    : "Junteng Liu"
-title_separator          : "-"
-name                     : &name "Junteng Liu"
-description              : &description "First-year PhD candidate at HKUST NLP Group researching Natural Language Processing and Machine Learning."
-url                      : "https://github.com/DiplomatNurse/LJT-Homepage"
-baseurl                  : ""
-repository               : "DiplomatNurse/LJT-Homepage"
+locale: "en-US"
+site_theme: "default"
+title: "Junteng Liu"
+title_separator: "-"
+name: "Junteng Liu"
+description: "First-year PhD candidate at HKUST NLP Group researching Natural Language Processing and Machine Learning."
+url: "https://diplomatnurse.github.io"
+baseurl: "/LJT-Homepage"
+repository: "DiplomatNurse/LJT-Homepage"
 
 author:
-  avatar           : "profile.png"
-  name             : "Junteng Liu"
-  bio              : "First-year PhD candidate at HKUST NLP Group; research focuses on Natural Language Processing and Machine Learning."
-  employer         : "Hong Kong University of Science and Technology"
-  email            : "jliugi@connect.ust.hk"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
-  github           : "Vicent0205"
-  twitter          : "@junteng88716710"
-  x_username       : "@junteng88716710"
-  github_url       : "https://github.com/Vicent0205"
-  x_url            : "@junteng88716710"
-
-publication_category:
-  manuscripts:
-    title: 'Arxiv and Manuscript Publications'
-  conferences:
-    title: 'Conference Papers'
-
-breadcrumbs              : false
-words_per_minute         : 160
-future                   : true
-read_more                : "disabled"
-talkmap_link             : false
-
-comments:
-  provider               :
-  disqus:
-    shortname            :
-  discourse:
-    server               :
-  facebook:
-    appid                :
-    num_posts            :
-    colorscheme          :
-
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601"
-
-atom_feed:
-  hide                   : false
-  path                   :
-
-twitter:
-  username               : &twitter "@junteng88716710"
+  avatar: "profile.png"
+  name: "Junteng Liu"
+  bio: "First-year PhD candidate at HKUST NLP Group; research focuses on Natural Language Processing and Machine Learning."
+  employer: "Hong Kong University of Science and Technology"
+  email: "jliugi@connect.ust.hk"
+  googlescholar: "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
+  github: "Vicent0205"
+  twitter: "junteng88716710"
+  x_username: "@junteng88716710"
 
 social:
-  type                   : Person
-  name                   : "Junteng Liu"
+  type: Person
+  name: "Junteng Liu"
   links:
     - "https://github.com/Vicent0205"
     - "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
 
+publication_category:
+  manuscripts:
+    title: "Arxiv and Manuscript Publications"
+  conferences:
+    title: "Conference Papers"
+
+breadcrumbs: false
+words_per_minute: 160
+future: true
+read_more: "disabled"
+talkmap_link: false
+
+comments:
+  provider:
+
+atom_feed:
+  hide: false
+  path:
+
+twitter:
+  username: "junteng88716710"
+
 analytics:
-  provider               : "false"
+  provider: "false"
   google:
-    tracking_id          :
+    tracking_id:
 
 include:
   - .htaccess
@@ -230,6 +203,5 @@ tag_archive:
 
 compress_html:
   clippings: all
-  comments: ["<!-- ", " -->"]
   ignore:
     envs: development
