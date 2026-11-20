@@ -11,18 +11,18 @@ redirect_from:
 
 ## Personal Details
 
-Junteng Liu is a first-year PhD candidate in the [HKUST NLP Group](https://github.com/HKUST-NLP) at the Hong Kong University of Science and Technology. His email is `jliugi@connect.ust.hk`, and his recorded GitHub profile is [Vicent0205](https://github.com/Vicent0205).
+Junteng Liu is a first-year PhD candidate in the HKUST NLP Group at the Hong Kong University of Science and Technology. His recorded email is `jliugi@connect.ust.hk`, and his recorded GitHub profile is [https://github.com/Vicent0205](https://github.com/Vicent0205).
 
 - **Name:** Junteng Liu
 - **Email:** [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
-- **GitHub:** [Vicent0205](https://github.com/Vicent0205)
-- **Google Scholar:** [Junteng Liu's Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+- **GitHub:** [https://github.com/Vicent0205](https://github.com/Vicent0205)
+- **Google Scholar:** [https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
 - **X (Twitter):** @junteng88716710
 
 ## Academic Background
 
 - **Ph.D. in Computer Science (2024–Present), Hong Kong University of Science and Technology**  
-  Junteng Liu is pursuing the Ph.D. at the Hong Kong University of Science and Technology and is a PhD candidate in the HKUST NLP Group. He is supervised by Professor Junxian He, who also previously advised him during his undergraduate studies at Shanghai Jiao Tong University.
+  Junteng Liu is pursuing the Ph.D. in Computer Science at the Hong Kong University of Science and Technology and is a PhD candidate in the HKUST NLP Group. He is supervised by Professor Junxian He, who also previously advised him during his undergraduate studies at Shanghai Jiao Tong University.
 
 - **B.Eng. (2020–2024), Shanghai Jiao Tong University**  
   Junteng Liu completed the B.Eng. at Shanghai Jiao Tong University (SJTU) and graduated from SJTU in June 2024.
