@@ -42,7 +42,7 @@ staticman:
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
-  path                   : "/_data/comments/{options.slug}"
+  path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
@@ -124,6 +124,7 @@ kramdown:
   input: GFM
   hard_wrap: false
   auto_ids: true
+  header_links: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
